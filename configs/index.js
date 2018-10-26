@@ -51,6 +51,8 @@ Calendrier.belongsToMany(Aliment, {through: "Appartenance_Aliment"});
 
 //1-n relation between aliment and ration
 Aliment.hasMany(Ration, {as: 'Rations'});
+
+//1-n relation between groupUser and ration
 GroupeUser.hasMany(Ration, {as: 'Rations'});
 
 //1-n relation between user and suivi_personnel

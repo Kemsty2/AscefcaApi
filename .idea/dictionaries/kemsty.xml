@@ -3,13 +3,27 @@
     <words>
       <w>activite</w>
       <w>alimentaire</w>
+      <w>boucle</w>
       <w>calendarfood</w>
+      <w>conseil</w>
+      <w>conseils</w>
+      <w>construit</w>
+      <w>datas</w>
+      <w>groupe</w>
+      <w>groupes</w>
       <w>individuelle</w>
+      <w>langue</w>
       <w>listfood</w>
+      <w>mesure</w>
+      <w>numero</w>
       <w>poids</w>
       <w>prenom</w>
+      <w>puis</w>
+      <w>quantite</w>
+      <w>récupère</w>
       <w>sequelize</w>
       <w>taille</w>
+      <w>traduction</w>
       <w>vérifie</w>
     </words>
   </dictionary>

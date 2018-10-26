@@ -1,6 +1,6 @@
 module.exports = (sequelize, DataType) => {
 
-  return sequelize.define("Message_forum", {
+  return sequelize.define("MessageForum", {
 
       id: {
         type: DataType.INTEGER,

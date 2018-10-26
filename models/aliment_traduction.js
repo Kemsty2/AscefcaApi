@@ -1,6 +1,6 @@
 module.exports = (sequelize, DataType) => {
 
-  return sequelize.define("Aliment_traduction", {
+  return sequelize.define("AlimentTraduction", {
 
       id: {
         type: DataType.INTEGER,
